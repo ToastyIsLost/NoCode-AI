@@ -24,42 +24,44 @@ Before running the project, make sure you have the necessary software installed.
 Linux:  
 ```bash
 sudo apt update && sudo apt install python3
+```
 
 Windows:
-
+```bash
 winget install Python
+```
 
-2. Install pip (Python Package Manager)
+### 2. Install pip (Python Package Manager)
 
 Linux:
-
+```bash
 sudo apt install python3-pip
-
+```
 Windows:
-
+```bash
 python -m ensurepip --upgrade
-
-3. Install OpenAI API (version 0.28)
+```
+### 3. Install OpenAI API (version 0.28)
 
 This specific version is required for compatibility with the project.
-Both Linux & Windows:
 
+Both Linux & Windows:
+```bash
 pip install openai==0.28
-
-4. Install Telegram Bot Library
-
-Both Linux & Windows:
-
-pip install python-telegram-bot
-
-5. Install Discord Bot Library
-
-Both Linux & Windows:
-
-pip install discord.py
-
-
 ```
+### 4. Install Telegram Bot Library
+
+Both Linux & Windows:
+```bash
+pip install python-telegram-bot
+```
+### 5. Install Discord Bot Library
+
+Both Linux & Windows:
+```bash
+pip install discord.py
+```
+
 
 # Clone the Project
 
