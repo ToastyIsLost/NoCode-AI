@@ -93,7 +93,7 @@ python Launcher.py
 
 # First Time Setup
 
-When you first run the project, you’ll be asked to choose between configuration options:
+When you first run the project, you’ll **need** to choose between configuration options:
 
 1. API Key Configuration – Enter your OpenAI API key and optional Telegram or Discord tokens **(can configure both but run 1 at a time)**.
 
