@@ -11,7 +11,7 @@ With this project, you can connect your assistant to:
 
 I used the following technologies and libraries to build this project:  
 - Python: The core language for the assistant’s logic.  
-- JSON: To store configurations and identities.  
+- JSON: To store chat history (bot memory).  
 - OpenAI API: To power the assistant's conversations.  
 - Telegram Bot API: For Telegram bot integration.  
 - Discord.py: For Discord bot integration.  
