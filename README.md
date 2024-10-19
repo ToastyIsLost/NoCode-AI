@@ -83,9 +83,9 @@ After cloning or downloading the project, navigate to the project directory and 
 Linux:
 ```bash
 python3 Launcher.py
-
+```
 Windows:
-
+```bash
 python Launcher.py
 ```
 
