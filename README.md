@@ -66,7 +66,7 @@ pip install discord.py
 You can clone the project using the following command:
 
 ```bash
-git clone https://github.com/example-username/your-project-name.git 
+git clone https://github.com/ToastyIsLost/NoCode-AI.git 
 ```
 
 If you prefer, you can download the files manually from the repository instead.
