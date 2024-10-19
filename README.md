@@ -99,7 +99,7 @@ When you first run the project, you’ll **need** to choose between configuratio
 
 
 2. Identity Setup – Customize your assistant’s personality and behavior.
-
+(Both identity and Key configuration can be modifed again)
 Once configured, select the main bot option to start using your assistant through console or connected platforms.
 
 ---
