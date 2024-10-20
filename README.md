@@ -61,8 +61,14 @@ Both Linux & Windows:
 ```bash
 pip install discord.py
 ```
+### 6. Install Requests & Urllib
 
+This specific version is required for compatibility with the project.
 
+Both Linux & Windows:
+```bash
+pip install requests==2.28.2 urllib3==1.26.16
+```
 # Clone the Project
 
 You can clone the project using the following command:
@@ -78,7 +84,7 @@ If you prefer, you can download the files manually from the repository instead.
 
 # Running the Project
 
-After cloning or downloading the project, navigate to the project directory and run the launcher script.
+After cloning or downloading the project, navigate to the project directory (``` cd NoCode-AI ```) and run the launcher script.
 
 Linux:
 ```bash
